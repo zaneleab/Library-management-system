@@ -1,0 +1,1 @@
+The objective of this library system is to keep track of the books and various administration tasks handled by the librarian, such as keeping track of the students who have not returned the books. Different types of users will use this system to perform analysis and other administrative tasks.  
